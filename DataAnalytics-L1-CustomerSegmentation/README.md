@@ -102,11 +102,11 @@ These customers show moderate purchasing frequency, recency, and spending and ha
 
 ### Frequency vs Monetary
 
-![Frequency vs Monetary](Customer%20Segments%20Frequency%20Vs%20Monetary.png)
+![Frequency vs Monetary](Customer%20Segments_%20Frequency%20Vs%20Monetary.png)
 
 ### Recency vs Monetary
 
-![Recency vs Monetary](Customer%20Segments%20Recency%20Vs%20Monetary.png)
+![Recency vs Monetary](Customer%20Segments_Recency%20Vs%20Monetary.png)
 
 ## Marketing Recommendations
 
